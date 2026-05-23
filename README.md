@@ -4,7 +4,7 @@
     Multi-Agent System built on Gemma 4 · Socratic by design · Self-improving through DPO
   </p>
   <p align="center">
-    <a href="#">🎥 Video Demo</a> · <a href="#">🌐 Live Demo</a> · <a href="./ARCHITECTURE.md">📐 Architecture</a> · <a href="https://www.kaggle.com/competitions/gemma-4-good-hackathon">🏆 Hackathon</a>
+    <a href="https://youtu.be/2KzobAMpXTg">🎥 Video Demo</a> · <a href="https://edu-verse-pink.vercel.app">🌐 Live Demo</a> · <a href="./ARCHITECTURE.md">📐 Architecture</a> · <a href="https://www.kaggle.com/competitions/gemma-4-good-hackathon">🏆 Hackathon</a>
   </p>
 </p>
 
